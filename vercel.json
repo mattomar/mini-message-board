@@ -6,10 +6,7 @@
         "use": "@vercel/node"
       }
     ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/app.js"
-      }
-    ]
+    "engines": {
+      "node": "22.x"
+    }
   }
