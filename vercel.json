@@ -5,8 +5,5 @@
         "src": "app.js",
         "use": "@vercel/node"
       }
-    ],
-    "engines": {
-      "node": "22.x"
-    }
+    ]
   }
